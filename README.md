@@ -1,1 +1,1 @@
-**This project builds a simple Agentic RAG system with LangGraph.**
+**This project builds a Agentic RAG system with LangGraph.**
